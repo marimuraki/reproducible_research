@@ -20,7 +20,7 @@ if (!file.exists(file)) {
 }
 
 data <- read.csv(file, 
-                 sep=";",
+                 sep=",",
                  na.string = "?",
                  header=TRUE)
 
