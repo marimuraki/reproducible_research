@@ -62,7 +62,9 @@ For this part of the assignment, you can ignore the missing values in the datase
 
 1. Make a histogram of the total number of steps taken each day
 
-2. Calculate and report the **mean** and **median** total number of steps taken per day
+2. If you do not understand the difference between a histogram and a barplot, research the difference between them. Make a histogram of the total number of steps taken each day
+
+3. Calculate and report the **mean** and **median** total number of steps taken per day
 
 ### What is the average daily activity pattern?
 
